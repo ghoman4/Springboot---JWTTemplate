@@ -48,7 +48,7 @@ src/main/java/com/example
 │── service/               # Constants and Utility
 │   └─ AppConstants.java
 │
-└─ MaxGriffinProjectApplication.java  # Main Spring Boot Application
+└─ JWTTemplateProjectApplication.java  # Main Spring Boot Application
 ```
 
 ---
