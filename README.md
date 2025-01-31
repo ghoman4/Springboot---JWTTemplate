@@ -109,3 +109,9 @@ gradlew.bat bootRun
 - **JWT (JSON Web Token)** for stateless authentication.  
 - **Refresh Tokens** allow seamless token renewal.  
 - **BCryptPasswordEncoder** encrypts user passwords.  
+
+---
+
+## Acknowledgments  
+This project was guided and improved with the help of **ChatGPT** and **[Teddy Smith](https://github.com/teddysmithdev)** to serve as a foundation for authentication in future projects.
+
